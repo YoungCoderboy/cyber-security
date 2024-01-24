@@ -426,6 +426,7 @@ Malwarebytes Anti-Malware scans for and removes unwanted ADS (as Rootkit.ADS)
 Summary
 Alternate Data Streams (ADS) have been given a bad reputation because their capability to hide data from us on our own computer, has been abused by malware writers in the past. Hopefully this article will clear up some of the questions and mystique you had about ADS.
 
+<<<<<<< HEAD
 "Environment variables store information about the operating system environment. This information includes details such as the operating system path, the number of processors used by the operating system, and the location of temporary folders".
 
 Dynamic Link Library (DLL) files are shared library files used by Windows programs — both utilities built into Windows and third-party programs you install — to perform various functions.
@@ -435,6 +436,10 @@ How does UAC work? When a user with an account type of administrator logs into a
 Let's look at the program on the account you're currently logged into, the built-in administrator account—Right-click to view its Properties.
 
 In the Security tab, we can see the users/groups and their permissions to this file. Notice that the standard user is not listed.
+
+=======
+
+> > > > > > > 4108875ec1be1a7d41fdef6a56ccb0750ca2eefc
 
 # cyber-security
 
